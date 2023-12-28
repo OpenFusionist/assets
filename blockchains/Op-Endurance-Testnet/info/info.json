@@ -1,0 +1,12 @@
+{
+    "name": "OP-Endurance Testnet",
+    "type": "coin",
+    "symbol": "tACE",
+    "decimals": 18,
+    "website": "",
+    "research": "",
+    "description": "",
+    "explorer": "https://explorer-l2-testnet.fusionist.io/",
+    "status": "active",
+    "links": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "MyToken",
+    "explorer": "https://explorer-l2-testnet.fusionist.io/address/0x7590b724BA78CF3ca936b914F50d5DA220C4077E",
+    "symbol": "MTK",
+    "type": "ERC20",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7590b724BA78CF3ca936b914F50d5DA220C4077E",
+    "description": "An ERC20 Token for testing",
+    "website": "https://explorer-l2-testnet.fusionist.io/tokens"
+}
